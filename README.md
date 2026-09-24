@@ -1,4 +1,19 @@
-# Amiibo.dump
+<h1>Amiibo.dump</h1>
+
+## Table of Contents
+
+- [Repository Structure](#repository-structure)
+  - [`Bin/`](#bin)
+  - [`NFC215/`](#nfc215)
+- [About Amiibo NFC](#about-amiibo-nfc)
+- [Typical Uses](#typical-uses)
+- [File Handling](#file-handling)
+- [Compatibility](#compatibility)
+- [Contributing](#contributing)
+- [Clone the Repository](#clone-the-repository)
+- [Legal / Ownership Notice](#legal--ownership-notice)
+- [Maintainer](#maintainer)
+<hr>
 
 A structured collection of **Amiibo `.bin` dumps** and **NTAG215/NFC215 data**, organized by game or franchise for research, preservation, testing, and compatible NFC workflows.
 
